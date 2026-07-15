@@ -55,8 +55,7 @@ speaks before the human votes.
 
 ## SoSoValue Integration — 9 Ecosystem Touchpoints
 
-This is not a cosmetic integration. Removing SoSoValue collapses the
-product. Every touchpoint below has a structural role.
+This demo uses seeded enterprise operational data while the decision engine consumes live SoSoValue market intelligence
 
 | # | Component | Endpoint | Role in Product |
 |---|---|---|---|
