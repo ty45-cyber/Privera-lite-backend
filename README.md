@@ -15,7 +15,7 @@
 > encrypted, audited, and getting smarter.*
 
 **[Live Demo →](https://privara-lite-frontend-dqbl-two.vercel.app/)**  ·
-**[Project Baobab ($500K Decision) →]()**  ·
+**[Project Baobab ($500K Decision) →](https://privara-lite-frontend-dqbl-two.vercel.app/app/treasury)**  ·
 **[GitHub →](https://github.com/ty45-cyber/privara-lite)**
 
 ---
@@ -24,11 +24,11 @@
 
 | Scenario | Link |
 |---|---|
-| 🔴 Project Baobab — $500K HIGH risk decision | [Open directly →](https://privara-lite.vercel.app/app/treasury?highlight=treq_009) |
-| 🔐 May 2026 payroll — AES-256-GCM decrypt animation | [Open directly →](https://privara-lite.vercel.app/app/payroll?batch=batch_may_2026) |
-| 🗳️ Fund III governance tally | [Open directly →](https://privara-lite.vercel.app/app/governance?proposal=prop_001&action=tally) |
-| ⚡ Enter as Finance CFO (no login) | [One click →](https://privara-lite.vercel.app/?demo=finance) |
-| 🛡️ Enter as Admin (full access) | [One click →](https://privara-lite.vercel.app/?demo=admin) |
+| 🔴 Project Baobab — $500K HIGH risk decision | [Open directly →](https://privara-lite-frontend-dqbl-two.vercel.app/app/treasury) |
+| 🔐 May 2026 payroll — AES-256-GCM decrypt animation | [Open directly →](https://privara-lite-frontend-dqbl-two.vercel.app/app/payroll) |
+| 🗳️ Fund III governance tally | [Open directly →](https://privara-lite-frontend-dqbl-two.vercel.app/app/governance) |
+| ⚡ Enter as Finance CFO (no login) | [One click →](https://privara-lite-frontend-dqbl-two.vercel.app/app/dashboard) |
+| 🛡️ Enter as Admin (full access) | [One click →](https://privara-lite-frontend-dqbl-two.vercel.app/app/dashboard) |
 
 </div>
 
